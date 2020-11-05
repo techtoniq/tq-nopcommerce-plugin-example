@@ -1,0 +1,11 @@
+{
+  "Group": "Techtoniq",
+  "FriendlyName": "Techtoniq Example Plugin",
+  "SystemName": "Techtoniq.ExamplePlugin",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "Techtoniq",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Techtoniq.ExamplePlugin.dll",
+  "Description": "An example plugin for nopCommerce 4.30."
+}
