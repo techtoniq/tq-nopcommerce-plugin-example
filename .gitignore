@@ -360,3 +360,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Test/Nop.Plugin.Techtoniq.Example.IntegrationTests/App_Data
+/Test/Nop.Plugin.Techtoniq.Example.IntegrationTests/Plugins
+/Test/Nop.Plugin.Techtoniq.Example.IntegrationTests/Themes/DefaultClean
